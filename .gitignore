@@ -1,0 +1,20 @@
+# 项目排除路径
+/alibaba-provider-payment9001/target/
+/alibaba-provider-payment9002/target/
+/cloud-api-commons/target/
+/cloud-config-center3344/target/
+/cloud-config-client3355/target/
+/cloud-config-client3366/target/
+/cloud-consumer-feign-hystrix-order80/target/
+/cloud-consumer-feign-order80/target/
+/cloud-consumer-hystrix-dashborad-order9001/target/
+/cloud-consumer-order80/target/
+/cloud-consumerZK-order80/target/
+/cloud-eureka-server7001/target/
+/cloud-eureka-server7002/target/
+/cloud-eureka-server7003/target/
+/cloud-gateway9527/target/
+/cloud-provider-hystrix-payment8001/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8002/target/
+/cloud-provider-payment8004/target/
